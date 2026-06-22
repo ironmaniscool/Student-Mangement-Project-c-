@@ -1,0 +1,25 @@
+# Ignore Visual Studio local folders and cache
+.vs/
+x64/
+CommandL.eca29980/
+StudentM.eca29980/
+
+# Ignore user-specific Visual Studio settings
+*.vcxproj.user
+
+# Ignore build artifacts and common binary outputs
+*.exe
+*.obj
+*.o
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.ilk
+
+# --- OPTIONAL: Uncomment the lines below if you specifically want to ignore them ---
+# main.cpp
+# *.cpp
+# *.h
+# *.txt
